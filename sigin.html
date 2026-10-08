@@ -39,10 +39,6 @@
             text-align: center;
             margin: 5px 0;
         }
-
-        #message {
-            text-align: center;
-        }
     </style>
 </head>
 
@@ -56,8 +52,6 @@
 
         <button type="button" onclick="signIn()">Sign In</button>
 
-        <p id="message"></p>
-
         <p><a href="#">Forgot your password?</a></p>
         <p><a href="signup.html">Don't have an account? Sign up</a></p>
     </div>
@@ -66,19 +60,18 @@
         function signIn() {
             let username = document.getElementById("username").value;
             let password = document.getElementById("password").value;
-            let message = document.getElementById("message");
 
             if (username === "" || password === "") {
-                message.textContent = "Please fill in all fields";
+                alert("Please fill in all fields");
                 return;
             }
 
             if (password.length < 6) {
-                message.textContent = "Password must be at least 6 characters";
+                alert("Password must be at least 6 characters");
                 return;
             }
 
-            message.textContent = "Sign in successful!";
+            alert("Sign in successful!");
         }
     </script>
 
