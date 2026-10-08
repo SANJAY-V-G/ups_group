@@ -1,0 +1,16 @@
+C:\Users\Ramamuthukumaran s\OneDrive\Desktop\application\bin\Debug\net11.0\application.exe
+C:\Users\Ramamuthukumaran s\OneDrive\Desktop\application\bin\Debug\net11.0\application.deps.json
+C:\Users\Ramamuthukumaran s\OneDrive\Desktop\application\bin\Debug\net11.0\application.runtimeconfig.json
+C:\Users\Ramamuthukumaran s\OneDrive\Desktop\application\bin\Debug\net11.0\application.runtimeconfig.dev.json
+C:\Users\Ramamuthukumaran s\OneDrive\Desktop\application\bin\Debug\net11.0\application.dll
+C:\Users\Ramamuthukumaran s\OneDrive\Desktop\application\bin\Debug\net11.0\application.pdb
+C:\Users\Ramamuthukumaran s\OneDrive\Desktop\application\obj\Debug\net11.0\application.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Ramamuthukumaran s\OneDrive\Desktop\application\obj\Debug\net11.0\application.AssemblyInfoInputs.cache
+C:\Users\Ramamuthukumaran s\OneDrive\Desktop\application\obj\Debug\net11.0\application.AssemblyInfo.cs
+C:\Users\Ramamuthukumaran s\OneDrive\Desktop\application\obj\Debug\net11.0\application.csproj.CoreCompileInputs.cache
+C:\Users\Ramamuthukumaran s\OneDrive\Desktop\application\obj\Debug\net11.0\application.dll
+C:\Users\Ramamuthukumaran s\OneDrive\Desktop\application\obj\Debug\net11.0\refint\application.dll
+C:\Users\Ramamuthukumaran s\OneDrive\Desktop\application\obj\Debug\net11.0\application.pdb
+C:\Users\Ramamuthukumaran s\OneDrive\Desktop\application\obj\Debug\net11.0\application.genruntimeconfig.cache
+C:\Users\Ramamuthukumaran s\OneDrive\Desktop\application\obj\Debug\net11.0\ref\application.dll
+C:\Users\Ramamuthukumaran s\OneDrive\Desktop\application\obj\Debug\net11.0\applicat.45FA8C82.Up2Date
